@@ -11,7 +11,7 @@ get and post requests, and much more.
 ```
  1. PHP.
  2. MySQL Server Created.
- 3. Xampp, wampp, or whatever.
+ 3. Xampp, wamp, or whatever.
 ```
 
 ## Installation
